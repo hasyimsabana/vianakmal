@@ -12,7 +12,7 @@
  "Config": [{
 
      "Name Bet Set": "  5 - 10 %",
-     "Base Bet": "0.00003",
+     "Base Bet": "0.0001",
      "Max Bet": "OFF",
      "Chance": "87.75",
      "Random Chance": {
